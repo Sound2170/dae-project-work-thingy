@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sa22/Desktop/dae projects work old/c#_1/new_proj/new_proj.csproj",
+      "projectUniqueName": "/Users/sa22/Desktop/dae projects work old/c#_1/c#_1Work/new_proj.csproj",
       "projectName": "new_proj",
-      "projectPath": "/Users/sa22/Desktop/dae projects work old/c#_1/new_proj/new_proj.csproj",
+      "projectPath": "/Users/sa22/Desktop/dae projects work old/c#_1/c#_1Work/new_proj.csproj",
       "packagesPath": "/Users/sa22/.nuget/packages/",
-      "outputPath": "/Users/sa22/Desktop/dae projects work old/c#_1/new_proj/obj/",
+      "outputPath": "/Users/sa22/Desktop/dae projects work old/c#_1/c#_1Work/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/sa22/.nuget/NuGet/NuGet.Config"
