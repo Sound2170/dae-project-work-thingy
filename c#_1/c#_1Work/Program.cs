@@ -78,9 +78,9 @@ Console.WriteLine(result);
 // access levels 
 //---------------------------
 
-//public int jumpLevel = 6;
+public int jumpLevel = 6;
 
-//private string nameOfPlayer = "booboo";
+private string nameOfPlayer = "booboo";
 
 //---------------------------
 // arrays and lists 
