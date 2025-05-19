@@ -4,6 +4,8 @@ using UnityEngine.SceneManagement;
 public class MainMenuControlller : MonoBehaviour
 {
    [SerializeField] private string TestRoom = "gameScene";
+   [SerializeField] private GameObject optionsPanel;
+
 
    public void OnStartPressed() 
    {
@@ -12,7 +14,7 @@ public class MainMenuControlller : MonoBehaviour
 
    public void OnOptionsPressed()
    {
-    //setting it up for later
+      optionsPanel.SetActive(true);
    }
 
    public void OnQuitPressed()
